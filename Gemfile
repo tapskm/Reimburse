@@ -9,6 +9,8 @@ gem 'rails', '~> 6.0.6', '>= 6.0.6.1'
 gem 'pg', '>= 0.18', '< 2.0'
 gem 'mysql2', '>= 0.5'
 gem 'devise'
+gem 'pry'
+gem 'omniauth'
 gem 'omniauth-google-oauth2'
 gem "omniauth-rails_csrf_protection"
 gem 'dotenv-rails', groups: [:development, :test]
